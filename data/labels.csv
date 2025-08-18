@@ -1,0 +1,44 @@
+ClassId,Name
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,End of the maximum speed limit zone
+7,Speed limit (100km/h)
+8,Speed limit (120km/h)
+9,Overtaking is prohibited
+10,Overtaking by truck is prohibited
+11,Intersections on the main roadway
+12,Main road
+13,Give way
+14,It is forbidden to move without stopping
+15,Traffic is prohibited
+16,The movement of trucks is prohibited
+17,Entry is prohibited
+18,Other hazards
+19,Dangerous turn (left)
+20,Dangerous turn (right)
+21,Dangerous turns
+22,Rough road
+23,Slippery slope
+24,Narrowing of the road
+25,Road works
+26,Traffic light regulation
+27,Pedestrian crossing
+28,Children
+29,Intersection with a bike path or an off-road bike path
+30,Careful it's cold
+31,Wild animals
+32,End of the restricted area
+33,Movement to the right
+34,Turn left
+35,Moving straight
+36,Going straight or going right
+37,Go straight or turn left
+38,Detour obstacles on the right
+39,Detour obstacles on the left
+40,Circular motion
+41,End of the no-overtaking zone
+42,The end of the no-overtaking zone for trucks

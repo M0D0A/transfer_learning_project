@@ -1,0 +1,7 @@
+**/.git
+**/.gitignore
+**/__pycache__
+
+**/jupyter_test/
+notebooks/
+jupyter_requirements.txt
